@@ -16,6 +16,7 @@ Timestamp: Keep Notes allows users to set reminders for their notes by associati
     The application follows the Model-View-ViewModel (MVVM) architecture, promoting a clean and modular codebase. This architecture enhances maintainability, testability, and scalability.
 
 6. Technologies Used
-    Kotlin: The app is developed using the Kotlin programming language, known for its conciseness and expressiveness.
+
+   Kotlin: The app is developed using the Kotlin programming language, known for its conciseness and expressiveness.
     Android Studio: The official integrated development environment (IDE) for Android app development is used for building and debugging the application.
     SQLite: Keep Notes relies on SQLite for local data storage, ensuring efficient data synchronization and secure note storage on the device without the need for external cloud services.
